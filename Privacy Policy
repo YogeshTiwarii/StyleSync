@@ -1,0 +1,62 @@
+Effective Date: Oct 20, 2026
+Last Updated: Oct 20, 2026
+PocketSplit ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how your information is collected, used, disclosed, and safeguarded when you use our mobile application PocketSplit (the "Application").
+Please read this Privacy Policy carefully. If you do not agree with the terms of this Privacy Policy, please do not access or use the Application.
+
+Information We Collect
+We collect information to provide better services to all our users. The types of information we collect include:
+A. Personal Data Provided by You
+•
+Account Information: When you sign up or log in using Google Sign-In or Firebase Authentication, we collect basic account details such as your name, email address, and profile picture URL.
+•
+User-Generated Content: Financial and expense data you voluntarily input, including group names, expense amounts, transaction descriptions, split preferences, and scanned receipt images.
+B. Automatically Collected Information
+•
+Device & Usage Identifiers: We may collect device information such as your device model, operating system version, unique device identifiers, and network information to ensure proper functioning of cloud synchronization and Google AdMob ad delivery.
+•
+Security & Integrity Data: Firebase App Check and Google Play Integrity API collect device state data to protect our backend services against fraud and abuse.
+C. Biometric Data (On-Device Only)
+•
+If you enable Biometric Lock (Fingerprint/Face Unlock) inside the Application, biometric verification is handled strictly on your local device using Android system APIs (BiometricPrompt). We never collect, store, or transmit biometric data to any server.
+How We Use Your Information
+We use the collected information for the following purposes:
+•
+Core App Functionality: To create and manage your account, sync shared group expenses across your devices via Cloud Firestore, and calculate bill settlements.
+•
+Receipt Processing: To perform optical character recognition (OCR) on user-scanned receipts to itemize expense details.
+•
+Advertising: To display advertisements via Google AdMob in accordance with Google's policies and applicable privacy laws (such as GDPR/CCPA).
+•
+Security & Fraud Prevention: To verify app integrity using Firebase App Check and prevent unauthorized backend API abuse.
+Third-Party Services & Data Processors
+The Application integrates with trusted third-party services that may collect information used to identify you:
+•
+Google Play Services: Privacy Policy
+•
+Firebase Authentication & Cloud Firestore: Privacy Policy
+•
+Google AdMob: Privacy Policy
+•
+Firebase App Check & Play Integrity: Privacy Policy
+Data Retention and Account Deletion
+A. In-App Deletion
+You can permanently delete your account and wipe all associated personal data directly within the Application at any time:
+Open PocketSplit.
+2.
+Go to Settings > Account Settings.
+3.
+Tap "Delete Account & Wipe All Data" and confirm.
+B. Web Deletion Requests
+If you cannot access the Application, you may request account and data deletion by sending an email with your registered email address to yogeshwartiwadi@gmail.com with the subject line "Account Deletion Request". Upon verification, all your account data will be permanently deleted from our servers within 30 days.
+5. Data Security
+We implement appropriate technical and organizational security measures to protect your personal information, including end-to-end HTTPS/TLS data encryption in transit and secure database rules on Cloud Firestore. However, please note that no transmission method over the Internet or electronic storage is 100% secure.
+6. Children's Privacy
+PocketSplit is not directed toward children under the age of 13. We do not knowingly collect personal identifiable information from children under 13. If we discover that a child under 13 has provided us with personal information, we immediately delete it from our servers.
+7. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by updating the "Last Updated" date at the top of this policy and updating the Privacy Policy link in the Application and Google Play Store.
+8. Contact Us
+If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us at:
+•
+Email: yogeshwartiwadi@gmail.com
+•
+App Name: PocketSplit (com.yogesh.splitease)
